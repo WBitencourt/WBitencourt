@@ -1,8 +1,10 @@
 # About-me 🤓
 
-ABOUT ME: Everything I do is for my family and the people I love ❤, I believe in doing something different for the world 🌍, something big, something that I fit in and feel part of, a place full of challenges and innovative ideas 🤓. I am a software developer and aviation student ☕✈
+Aim to do a great job as a software developer.
 
-👋 Hello, my name is Wendell Bitencourt. Let's go to do it.
+I am helpful and creative, I understand that quality and deadlines are important. I developer my projects since I was 15 years old, I am formed in computer science, thats helped me in career as a programer.
 
-🌱 I’m currently learning React.js, React Native and working with C#, Html, CSS, Javascript and SQL Server...
+🌱 I’m currently learning in frontend React.js and React Native. In backend node.js and SQL/NoSQL.
 📫 How to reach me... On Instagram as @w.gbitencourt or LinkedIn by link: linkedin.com/in/wendell-bitencourt.
+
+👋 Hello, my name is Wendell Bitencourt. Let's go to do it or better... Let's go to code! 💻📲
