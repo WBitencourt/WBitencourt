@@ -8,4 +8,6 @@ I am helpful and creative, I understand that quality and deadlines are important
 <br/>
 📫 How to reach me... On Instagram as @w.gbitencourt or LinkedIn by link: linkedin.com/in/wendell-bitencourt.
 
-👋 Hello, my name is Wendell Bitencourt. Let's go to do it or better... Let's go to code! 💻📲
+👋 Hello, my name is Wendell Bitencourt. 
+<br/>
+💻 Let's go to do it or better... Let's go to code!
