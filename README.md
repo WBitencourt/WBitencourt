@@ -6,7 +6,7 @@ I am helpful and creative, I understand that quality and deadlines are important
 
 🌱 I’m currently learning in frontend React.js and React Native. In backend node.js and SQL/NoSQL.
 <br/>
-📫 How to reach me... On Instagram as @w.gbitencourt or LinkedIn by link: linkedin.com/in/wendell-bitencourt.
+📫 How to reach me... On Instagram as @wbitencourt.dev or LinkedIn by link: linkedin.com/in/wendell-bitencourt.
 
 👋 Hello, my name is Wendell Bitencourt. 
 <br/>
