@@ -1,15 +1,19 @@
 # About-me 🤓
 
-Aim to do a great job as a software developer.
-
-I am helpful and creative, I understand that quality and deadlines are important. I developer my projects since I was 15 years old, I am formed in computer science, thats helped me in career as a programer.
-
-🌱 I’m currently learning in frontend React.js and React Native. In backend node.js and SQL/NoSQL.
-<br/>
 👋 Hello, my name is Wendell Bitencourt. 
 <br/>
 <br/>
+Aim to do a great job as a software developer.
+
+I am helpful and creative, I understand that quality and deadlines are important. I developer my projects since I was 15 years old, I am formed in computer science, thats helped me in career as a programer.
+<br/>
+<br/>
+🌱 I’m currently learning in frontend React.js and React Native. In backend node.js with SQL/NoSQL.
+<br/>
+<br/>
 📫 How to reach me...
+<br/>
+<br/>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendell-bitencourt/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wbitencourt.dev/)
 <br/>
