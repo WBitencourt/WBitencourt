@@ -8,7 +8,10 @@ I am helpful and creative, I understand that quality and deadlines are important
 <br/>
 👋 Hello, my name is Wendell Bitencourt. 
 <br/>
+<br/>
 📫 How to reach me...
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendell-bitencourt/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wbitencourt.dev/)
 <br/>
 <br/>
 💻 Let's go to do it, or better... Let's go to code!
