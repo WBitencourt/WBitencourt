@@ -24,8 +24,29 @@ I am helpful and creative, I understand that quality and deadlines are important
 <br/>
 💻 Let's go to do it, or better... Let's go to code!
 <br/>
-<br/>
+<br/>,
 <div align="start">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wbitencourt&show_icons=true&include_all_commits=true&theme=radical"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbitencourt&layout=compact&langs_count=6)]  (https://github.com/wbitencourt/github-readme-statsCompact&theme=radical"/>
 </div>
+
+<h1 align="center">Projects</h1>
+
+<table bordercolor="#66b2b2" align="center">
+    <tr>
+        <td width="50%" valign="top">           
+            <h3 align="center">Remote control: Bluetooth car solar powered</h3>
+            <br />            
+            <a target="_blank" href="https://github.com/WBitencourt/Personal-Project/tree/main/RC%20Bluetooth%20car%20solar%20powered">
+                <img src="images/RemoteCar_bluetooth.gif" width="100%" alt="Remote car bluetooth"/>
+            </a>
+        </td>    
+        <td width="50%" valign="top">           
+            <h3 align="center">Travelara.org</h3>
+            <br />           
+            <a target="_blank" href="http://travelara.herokuapp.com">
+                <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            </a>
+        </td>  
+    </tr>
+</table>
