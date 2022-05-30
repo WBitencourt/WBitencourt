@@ -37,7 +37,8 @@ I am helpful and creative, I understand that quality and deadlines are important
         <td width="50%" valign="top">           
             <h3 align="center">Remote control: Bluetooth car solar powered</h3>
             <br />            
-            <a target="_blank" href="https://github.com/WBitencourt/Personal-Project/tree/main/RC%20Bluetooth%20car%20solar%20powered">
+            [![linkedin](images/RemoteCar_bluetooth.gif)]([https://www.instagram.com/wbitencourt.dev/](https://github.com/WBitencourt/Personal-Project/tree/main/RC%20Bluetooth%20car%20solar%20powered))
+            <a target="_blank" href="">
                 <img src="images/RemoteCar_bluetooth.gif" width="100%" alt="Remote car bluetooth"/>
             </a>
         </td>    
