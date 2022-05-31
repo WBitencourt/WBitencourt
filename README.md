@@ -26,8 +26,8 @@ I am helpful and creative, I understand that quality and deadlines are important
 <br/>
 <br/>
 <div align="start">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wbitencourt&show_icons=true&include_all_commits=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbitencourt&layout=compact&langs_count=6)]  (https://github.com/wbitencourt/github-readme-statsCompact&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wbitencourt&show_icons=true&include_all_commits=true&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbitencourt&layout=compact&langs_count=6)]  (https://github.com/wbitencourt/github-readme-statsCompact&theme=radical"/>
 </div>
 
 <h1 align="center">Projects</h1>
