@@ -8,7 +8,7 @@ I aim to do a great job as a software developer.
 I am helpful and creative, I understand that quality and deadlines are important. I developer my projects since I was 15 years old, I am formed in computer science, thats helped me in career as a programer.
 <br/>
 <br/>
-🌱 I’m currently learning React.js | React Native | Node.js.
+🌱 I’m currently learning Javascript | React | Node.js.
 <br> 
 <br/>
 📫 How to reach me... &nbsp;
