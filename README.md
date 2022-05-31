@@ -40,7 +40,7 @@ I am helpful and creative, I understand that quality and deadlines are important
             <img src="images/RemoteCar_bluetooth3.gif" height="300px" alt="Remote car bluetooth"/>
         </td>    
         <td width="50%" valign="top">           
-            <h3 align="center">Evento NLW Edição 08 - RocketSeat 🚀</h3>
+            <h3 align="center">Event NLW Edition 08 - RocketSeat 🚀</h3>
             <br />           
             <img src="images/NLW08_Rocketseat.gif" height="300px" alt="Remote car bluetooth"/>
         </td>  
