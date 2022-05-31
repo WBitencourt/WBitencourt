@@ -9,16 +9,14 @@ I am helpful and creative, I understand that quality and deadlines are important
 <br/>
 <br/>
 🌱 I’m currently learning React.js | React Native | Node.js.
-<br/>
-👶 Born in São Bernardo do Campo, São Paulo - Brazil
 <br> 
 <br/>
 📫 How to reach me... &nbsp;
-[![linkedin](https://user-images.githubusercontent.com/51727640/169602833-50664130-57c3-4491-842a-ac093fc0493e.svg)](https://www.instagram.com/wbitencourt.dev/)
+[![linkedin](https://user-images.githubusercontent.com/51727640/169602833-50664130-57c3-4491-842a-ac093fc0493e.svg)](https://www.linkedin.com/in/wendell-bitencourt/)
 [LinkedIn](https://www.linkedin.com/in/wendell-bitencourt/) &nbsp; | &nbsp;
 [![instagram](https://user-images.githubusercontent.com/51727640/169602835-f8578787-11b8-49ba-88ea-b5179e035cad.svg)](https://www.instagram.com/wbitencourt.dev/)
 [Instagram](https://www.instagram.com/wbitencourt.dev/) &nbsp; | &nbsp;
-[![rocketseat](https://user-images.githubusercontent.com/51727640/169602836-2b52f6d2-e9b3-46d4-a9e8-d32c7df1eb79.svg)](https://www.instagram.com/wbitencourt.dev/)
+[![rocketseat](https://user-images.githubusercontent.com/51727640/169602836-2b52f6d2-e9b3-46d4-a9e8-d32c7df1eb79.svg)](https://app.rocketseat.com.br/me/wendell-bitencourt)
 [Rocketseat](https://app.rocketseat.com.br/me/wendell-bitencourt)
 <br/>
 <br/>
