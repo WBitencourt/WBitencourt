@@ -37,17 +37,12 @@ I am helpful and creative, I understand that quality and deadlines are important
         <td width="50%" valign="top">           
             <h3 align="center">Remote control: Bluetooth car solar powered</h3>
             <br />            
-            [![linkedin](images/RemoteCar_bluetooth.gif)]([https://www.instagram.com/wbitencourt.dev/](https://github.com/WBitencourt/Personal-Project/tree/main/RC%20Bluetooth%20car%20solar%20powered))
-            <a target="_blank" href="">
-                <img src="images/RemoteCar_bluetooth.gif" width="100%" alt="Remote car bluetooth"/>
-            </a>
+            <img src="images/RemoteCar_bluetooth.gif" height="300px" alt="Remote car bluetooth"/>
         </td>    
         <td width="50%" valign="top">           
-            <h3 align="center">Travelara.org</h3>
+            <h3 align="center">Evento NLW Edição 08 - RocketSeat 🚀</h3>
             <br />           
-            <a target="_blank" href="http://travelara.herokuapp.com">
-                <img src="images/gif1.gif" width="100%" alt="Travel App"/>
-            </a>
+            <img src="https://user-images.githubusercontent.com/51727640/167926346-1df2d26c-47e6-4e3f-abb9-322b1e7120b4.svg" height="300px" alt="Remote car bluetooth"/>
         </td>  
     </tr>
 </table>
