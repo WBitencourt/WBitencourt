@@ -37,7 +37,7 @@ I am helpful and creative, I understand that quality and deadlines are important
         <td width="50%" valign="top">           
             <h3 align="center">Remote control: Bluetooth car solar powered</h3>
             <br />            
-            <img src="images/RemoteCar_bluetooth.gif" height="300px" alt="Remote car bluetooth"/>
+            <img src="images/RemoteCar_bluetooth3.gif" height="300px" alt="Remote car bluetooth"/>
         </td>    
         <td width="50%" valign="top">           
             <h3 align="center">Evento NLW Edição 08 - RocketSeat 🚀</h3>
