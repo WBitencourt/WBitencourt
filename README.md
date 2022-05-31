@@ -42,7 +42,7 @@ I am helpful and creative, I understand that quality and deadlines are important
         <td width="50%" valign="top">           
             <h3 align="center">Evento NLW Edição 08 - RocketSeat 🚀</h3>
             <br />           
-            <img src="https://user-images.githubusercontent.com/51727640/167926346-1df2d26c-47e6-4e3f-abb9-322b1e7120b4.svg" height="300px" alt="Remote car bluetooth"/>
+            <img src="images/NLW08_Rocketseat.gif" height="300px" alt="Remote car bluetooth"/>
         </td>  
     </tr>
 </table>
