@@ -48,15 +48,23 @@ I am helpful and creative, I understand that quality and deadlines are important
 
 <table bordercolor="#66b2b2" align="center">
     <tr>
-        <td width="50%" valign="top">           
+        <td width="50%" valign="top" align="center">           
             <h3 align="center">Remote control: Bluetooth car solar powered</h3>
             <br />            
             <img src="images/RemoteCar_bluetooth3.gif" height="300px" alt="Remote car bluetooth"/>
+            <a align="center" valign="center" href="https://github.com/WBitencourt/Personal-Project/tree/main/RC%20Bluetooth%20car%20solar%20powered">
+                <img title="Link" align="center" height="17" src="images/chain.png">
+                <span>Click here to see repository</span>
+            </a>    
         </td>    
-        <td width="50%" valign="top">           
+        <td width="50%" valign="top" align="center">           
             <h3 align="center">Event NLW Edition 08 - RocketSeat 🚀</h3>
             <br />           
             <img src="images/NLW08_Rocketseat.gif" height="300px" alt="Remote car bluetooth"/>
+            <a align="center" valign="center" href="https://github.com/WBitencourt/Technology-course/tree/master/NLW">
+                <img title="Link" align="center" height="17" src="images/chain.png">
+                <span>Click here to see repository</span>
+            </a> 
         </td>  
     </tr>
 </table>
