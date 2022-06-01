@@ -28,18 +28,18 @@ I am helpful and creative, I understand that quality and deadlines are important
 
 **Main languages and tools:**
 
-<img title="Git" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/git.svg">
-<img title="HTML5" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/html5.svg">
-<img title="CSS3" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/css3.svg">
-<img title="Tailwind" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/tailwind.svg">
-<img title="Bootstrap" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/bootstrap.svg">
-<img title="Javascript" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
-<img title="Typescript" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg">
-<img title="React" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg">
-<img title="Node.js" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/node.svg">
-<img title="Postgresql" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg">
-<img title="SQL Server" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/sql-server.svg">
-<img title="MongoDB" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/mongodb.svg">
+<img title="Git" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/git.svg">
+<img title="HTML5" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/html5.svg">
+<img title="CSS3" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/css3.svg">
+<img title="Tailwind" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/tailwind.svg">
+<img title="Bootstrap" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/bootstrap.svg">
+<img title="Javascript" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
+<img title="Typescript" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg">
+<img title="React" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg">
+<img title="Node.js" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/node.svg">
+<img title="Postgresql" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg">
+<img title="SQL Server" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/sql-server.svg">
+<img title="MongoDB" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/mongodb.svg">
 
 <br/>
 <br/>
