@@ -54,7 +54,7 @@ I am helpful and creative, I understand that quality and deadlines are important
             <a align="center" valign="center" href="https://github.com/WBitencourt/Personal-Project/tree/main/RC%20Bluetooth%20car%20solar%20powered">
                 <img src="images/RemoteCar_bluetooth3.gif" height="300px" alt="Remote car bluetooth"/>
             </a>
-            <a align="center" valign="center" href="https://github.com/WBitencourt/Personal-Project/tree/main/RC%20Bluetooth%20car%20solar%20powered">
+            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/Personal-Project/tree/main/RC%20Bluetooth%20car%20solar%20powered">
                 <img title="Link" align="center" height="17" src="images/chain.png">
                 <span>Click here to see repository</span>
             </a>    
@@ -63,7 +63,7 @@ I am helpful and creative, I understand that quality and deadlines are important
             <h3 align="center">Event NLW Edition 08 - RocketSeat 🚀</h3>
             <br />           
             <img src="images/NLW08_Rocketseat.gif" height="300px" alt="Remote car bluetooth"/>
-            <a align="center" valign="center" href="https://github.com/WBitencourt/Technology-course/tree/master/NLW">
+            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/Technology-course/tree/master/NLW">
                 <img title="Link" align="center" height="17" src="images/chain.png">
                 <span>Click here to see repository</span>
             </a> 
