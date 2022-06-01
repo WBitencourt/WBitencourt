@@ -6,9 +6,6 @@
 I aim to do a great job as a software developer.
 
 I am helpful and creative, I understand that quality and deadlines are important. I developer my projects since I was 15 years old, I am formed in computer science, thats helped me in career as a programer.
-<br/>
-<br/>
-🌱 I’m always learning about Javascript/Typescript | React | Node.js.
 <br> 
 <br/>
 📫 How to reach me... &nbsp;
@@ -25,9 +22,28 @@ I am helpful and creative, I understand that quality and deadlines are important
 <br/>
 <div align="start">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wbitencourt&show_icons=true&include_all_commits=true&theme=radical"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbitencourt&layout=compact&langs_count=6)]  (https://github.com/wbitencourt/github-readme-statsCompact&theme=radical"/>
+    <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbitencourt&layout=compact&langs_count=6)]  (https://github.com/wbitencourt/github-readme-statsCompact&theme=radical"/>!-->
 </div>
+<br/>
 
+**Main languages and tools:**
+
+<img title="Git" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/git.svg">
+<img title="HTML5" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/html5.svg">
+<img title="CSS3" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/css3.svg">
+<img title="Tailwind" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/tailwind.svg">
+<img title="Bootstrap" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/bootstrap.svg">
+<img title="Javascript" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
+<img title="Typescript" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg">
+<img title="React" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg">
+<img title="Node.js" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/node.svg">
+<img title="Postgresql" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg">
+<img title="SQL Server" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/sql-server.svg">
+<img title="MongoDB" align="left" height="50" src="https://xesque.rocketseat.dev/platform/tech/mongodb.svg">
+
+<br/>
+<br/>
+<br/>
 <h1 align="center">Projects</h1>
 
 <table bordercolor="#66b2b2" align="center">
