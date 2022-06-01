@@ -50,8 +50,10 @@ I am helpful and creative, I understand that quality and deadlines are important
     <tr>
         <td width="50%" valign="top" align="center">           
             <h3 align="center">Remote control: Bluetooth car solar powered</h3>
-            <br />            
-            <img src="images/RemoteCar_bluetooth3.gif" height="300px" alt="Remote car bluetooth"/>
+            <br />           
+            <a align="center" valign="center" href="https://github.com/WBitencourt/Personal-Project/tree/main/RC%20Bluetooth%20car%20solar%20powered">
+                <img src="images/RemoteCar_bluetooth3.gif" height="300px" alt="Remote car bluetooth"/>
+            </a>
             <a align="center" valign="center" href="https://github.com/WBitencourt/Personal-Project/tree/main/RC%20Bluetooth%20car%20solar%20powered">
                 <img title="Link" align="center" height="17" src="images/chain.png">
                 <span>Click here to see repository</span>
