@@ -8,22 +8,17 @@ I aim to do a great job as a software developer.
 I am helpful and creative, I understand that quality and deadlines are important. I developer my projects since I was 15 years old, I am formed in computer science, thats helped me in career as a programer.
 <br> 
 <br/>
-📫 How to reach me... &nbsp;
-[![linkedin](https://user-images.githubusercontent.com/51727640/169602833-50664130-57c3-4491-842a-ac093fc0493e.svg)](https://www.linkedin.com/in/wendell-bitencourt/)
-[LinkedIn](https://www.linkedin.com/in/wendell-bitencourt/) &nbsp; | &nbsp;
-[![instagram](https://user-images.githubusercontent.com/51727640/169602835-f8578787-11b8-49ba-88ea-b5179e035cad.svg)](https://www.instagram.com/wbitencourt.dev/)
-[Instagram](https://www.instagram.com/wbitencourt.dev/) &nbsp; | &nbsp;
-[![rocketseat](https://user-images.githubusercontent.com/51727640/169602836-2b52f6d2-e9b3-46d4-a9e8-d32c7df1eb79.svg)](https://app.rocketseat.com.br/me/wendell-bitencourt)
-[Rocketseat](https://app.rocketseat.com.br/me/wendell-bitencourt)
-<br/>
-<br/>
 💻 Let's go to do it, or better... Let's go to code!
+<br> 
+<br/>
+**📫 How to reach me:**
 <br/>
 <br/>
-<div align="start">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wbitencourt&show_icons=true&include_all_commits=true&theme=radical"/>
-    <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbitencourt&layout=compact&langs_count=6)]  (https://github.com/wbitencourt/github-readme-statsCompact&theme=radical"/>!-->
-</div>
+<a href="https://www.linkedin.com/in/wendell-bitencourt/" target="blank"><img title="Git" align="left" height="40" src="https://user-images.githubusercontent.com/51727640/169602833-50664130-57c3-4491-842a-ac093fc0493e.svg"></a>
+<a href="https://www.instagram.com/wbitencourt.dev/" target="blank"><img title="HTML5" align="left" height="40" src="https://user-images.githubusercontent.com/51727640/169602835-f8578787-11b8-49ba-88ea-b5179e035cad.svg"></a>
+<a href="https://app.rocketseat.com.br/me/wendell-bitencourt" target="blank"><img title="HTML5" align="left" height="40" src="https://user-images.githubusercontent.com/51727640/169602836-2b52f6d2-e9b3-46d4-a9e8-d32c7df1eb79.svg"></a>
+<br/>
+<br/>
 <br/>
 
 **Main languages and tools:**
@@ -40,9 +35,14 @@ I am helpful and creative, I understand that quality and deadlines are important
 <a href="https://www.postgresql.org/" target="blank"><img title="Postgresql" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg"></a>
 <a href="https://www.microsoft.com/en-us/sql-server/" target="blank"><img title="SQL Server" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/sql-server.svg"></a>
 <a href="https://www.mongodb.com/" target="blank"><img title="MongoDB" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/mongodb.svg"></a>
-
 <br/>
 <br/>
+<br/>
+<br/>
+<div align="start">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wbitencourt&show_icons=true&include_all_commits=true&theme=radical"/>
+    <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbitencourt&layout=compact&langs_count=6)]  (https://github.com/wbitencourt/github-readme-statsCompact&theme=radical"/>!-->
+</div>
 <br/>
 <h1 align="center">Projects</h1>
 
