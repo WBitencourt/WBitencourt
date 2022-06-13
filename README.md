@@ -74,7 +74,7 @@ I am helpful and creative, I understand that quality and deadlines are important
             <h3 align="center">DYMOVIE</h3>
             <br />           
             <a align="center" valign="center" href="https://github.com/WBitencourt/Personal-Project/tree/main/dymovie">
-                <img src="images/dymovie.png" height="300px" alt="DYMOVIE"/>
+                <img src="images/dymovie2.png" height="300px" alt="DYMOVIE"/>
             </a>
             <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/Personal-Project/tree/main/dymovie">
                 <img title="Link" align="center" height="17" src="images/chain.png">
