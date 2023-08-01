@@ -3,12 +3,11 @@
 👋 Hello, my name is Wendell Bitencourt. 
 <br/>
 <br/>
-I aim to do a great job as a software developer.
+I have objective of doing a great job as a software developer.
 
-I am helpful and creative, I understand that quality and deadlines are important. I developer my projects since I was 15 years old, I am formed in computer science, thats helped me in career as a programer.
-<br> 
-<br/>
-💻 Let's go to do it, or better... Let's go to code!
+I am helpful and creative, understanding that quality and deadlines are important. I have been developing personal projects since I was 15 years old and hold a degree in computer science, contributing with my three years of professional experience in the development field.
+
+"Do your best in the condition you are, while you don't have better conditions, to do even better!" - Mario Sergio Cortella.
 <br> 
 <br/>
 **📫 How to reach me:**
