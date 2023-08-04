@@ -13,9 +13,9 @@ I am helpful and creative, understanding that quality and deadlines are importan
 **📫 How to reach me:**
 <br/>
 <br/>
-<a href="https://www.linkedin.com/in/wendell-bitencourt/" target="blank"><img title="Git" align="left" height="40" src="https://user-images.githubusercontent.com/51727640/169602833-50664130-57c3-4491-842a-ac093fc0493e.svg"></a>
-<a href="https://www.instagram.com/wbitencourt.dev/" target="blank"><img title="HTML5" align="left" height="40" src="https://user-images.githubusercontent.com/51727640/169602835-f8578787-11b8-49ba-88ea-b5179e035cad.svg"></a>
-<a href="https://app.rocketseat.com.br/me/wendell-bitencourt" target="blank"><img title="HTML5" align="left" height="40" src="https://user-images.githubusercontent.com/51727640/169602836-2b52f6d2-e9b3-46d4-a9e8-d32c7df1eb79.svg"></a>
+<a href="https://www.linkedin.com/in/wendell-bitencourt/" target="blank"><img title="Linkedin" align="left" height="40" src="https://user-images.githubusercontent.com/51727640/169602833-50664130-57c3-4491-842a-ac093fc0493e.svg"></a>
+<a href="https://www.instagram.com/wbitencourt.dev/" target="blank"><img title="Instagram" align="left" height="40" src="https://user-images.githubusercontent.com/51727640/169602835-f8578787-11b8-49ba-88ea-b5179e035cad.svg"></a>
+<a href="https://app.rocketseat.com.br/me/wendell-bitencourt" target="blank"><img title="Rocketseat" align="left" height="40" src="https://user-images.githubusercontent.com/51727640/169602836-2b52f6d2-e9b3-46d4-a9e8-d32c7df1eb79.svg"></a>
 <br/>
 <br/>
 <br/>
