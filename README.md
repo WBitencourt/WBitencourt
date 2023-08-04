@@ -5,7 +5,7 @@
 <br/>
 I have objective of doing a great job as a software developer.
 
-I am helpful and creative, understanding that quality and deadlines are important. I have been developing personal projects since I was 15 years old and hold a degree in computer science, contributing with my three years of professional experience in the development field.
+I am helpful and creative, understanding that quality and deadlines are important. I have been developing personal projects since I was 15 years old and hold a degree in computer science, contributing with my four years of professional experience in the development field.
 
 "Do your best in the condition you are, while you don't have better conditions, to do even better!" - Mario Sergio Cortella.
 <br> 
