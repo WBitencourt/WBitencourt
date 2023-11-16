@@ -3,7 +3,7 @@
 👋 Hello, my name is Wendell Bitencourt. 
 <br/>
 <br/>
-I have objective of doing a great job as a software developer.
+I have objective of doing a great job as a Software Engineer.
 
 I am helpful and creative, understanding that quality and deadlines are important. I have been developing personal projects since I was 15 years old and hold a degree in computer science, contributing with my four years of professional experience in the development field.
 
