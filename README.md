@@ -35,7 +35,7 @@ I am helpful and creative, understanding that quality and deadlines are importan
     <a href="https://www.postgresql.org/" target="blank"><img title="Postgresql" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg"></a>
     <a href="https://www.microsoft.com/en-us/sql-server/" target="blank"><img title="SQL Server" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/sql-server.svg"></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="blank"><img title="C#" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/c-sharp.svg"></a>
-    <a href="https://redux.js.org/" target="blank"><img title="Redux" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/redux.png"></a>
+    <a href="https://redux.js.org/" target="blank"><img title="Redux" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/redux.svg"></a>
     <a href="https://zustand-demo.pmnd.rs/" target="blank"><img title="Zustand" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/1683814464431.png"></a>
 </div>
 <br/>
