@@ -43,7 +43,6 @@ I am helpful and creative, understanding that quality and deadlines are importan
     <a href="https://git-scm.com/" target="blank"><img title="Git" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/git.svg"></a>
     <a href="https://www.mongodb.com/" target="blank"><img title="MongoDB" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/mongodb.svg"></a>
     <a href="https://nestjs.com/" target="blank"><img title="Nest.js" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/1663679627579.svg"></a>
-    <a href="https://reactnative.dev/" target="blank"><img title="React Native" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/react-native.svg"></a>
     <a href="https://aws.amazon.com/" target="blank"><img title="AWS" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/aws.svg"></a>
     <a href="https://www.python.org/" target="blank"><img title="Python" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/python.svg"></a>
     <a href="https://www.docker.com/" target="blank"><img title="Docker" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/docker.svg"></a>
@@ -53,6 +52,8 @@ I am helpful and creative, understanding that quality and deadlines are importan
 <div style="display: flex;">
     <h6>I am interested</h6>
     <a href="https://graphql.org/" target="blank"><img title="Graphql" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/graphql.svg"></a>
+    <a href="https://expo.dev" target="blank"><img title="Expo" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/1663680122056.svg"></a>
+    <a href="https://reactnative.dev/" target="blank"><img title="React Native" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/react-native.svg"></a>
 </div>
 <br/>
 <br/>
