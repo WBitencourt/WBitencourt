@@ -77,6 +77,7 @@ I am helpful and creative, understanding that quality and deadlines are importan
                 <img src="images/RemoteCar_bluetooth3.gif" height="300px" alt="Remote car bluetooth"/>
             </a>
             <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/Personal-Project/tree/main/RC%20Bluetooth%20car%20solar%20powered">
+                <br/>
                 <img title="Link" align="center" height="17" src="images/chain.png">
                 <span>Click here to see repository</span>
             </a>    
@@ -86,6 +87,7 @@ I am helpful and creative, understanding that quality and deadlines are importan
             <br />           
             <img src="images/NLW08_Rocketseat.gif" height="300px" alt="Remote car bluetooth"/>
             <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/Technology-course/tree/master/NLW">
+                <br/>
                 <img title="Link" align="center" height="17" src="images/chain.png">
                 <span>Click here to see repository</span>
             </a> 
@@ -99,6 +101,7 @@ I am helpful and creative, understanding that quality and deadlines are importan
                 <img src="images/dymovie.png" height="300px" alt="DYMOVIE"/>
             </a>
             <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/Personal-Project/tree/main/dymovie">
+                <br/>
                 <img title="Link" align="center" height="17" src="images/chain.png">
                 <span>Click here to see repository</span>
             </a>    
