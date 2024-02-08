@@ -83,18 +83,6 @@ I am helpful and creative, understanding that quality and deadlines are importan
             </a>    
         </td>    
         <td width="50%" valign="top" align="center">           
-            <h3 align="center">Event NLW Edition 08 - RocketSeat 🚀</h3>
-            <br />           
-            <img src="images/NLW08_Rocketseat.gif" height="300px" alt="Remote car bluetooth"/>
-            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/Technology-course/tree/master/NLW">
-                <br/>
-                <img title="Link" align="center" height="17" src="images/chain.png">
-                <span>Click here to see repository</span>
-            </a> 
-        </td>  
-    </tr>
-    <tr>
-        <td width="50%" valign="top" align="center">           
             <h3 align="center">DYMOVIE</h3>
             <br />           
             <a align="center" valign="center" href="https://github.com/WBitencourt/Personal-Project/tree/main/dymovie">
@@ -105,6 +93,6 @@ I am helpful and creative, understanding that quality and deadlines are importan
                 <img title="Link" align="center" height="17" src="images/chain.png">
                 <span>Click here to see repository</span>
             </a>    
-        </td>    
+        </td>  
     </tr>
 </table>
