@@ -3,7 +3,7 @@
 👋 Hello, my name is Wendell Bitencourt. 
 <br/>
 <br/>
-With a creative mind and always driven by my projects, I have an endless passion for traveling and exploring the curiosities of life. Human behavior fascinates me, prompting me to ask questions and seek to understand more about us.
+As a creative and driven individual, I have a passion for traveling and delving into the mysteries of life. I'm deeply fascinated by human behavior, which drives me to constantly question and explore our nature and motivations.
 
 I deeply value my moments of solitude, which allow me to reflect and recharge, yet I equally love being in the company of others, sharing experiences and learnings. Peace is something I deeply cherish, finding in it the perfect balance to face and overcome the challenges life throws my way.
 
