@@ -3,9 +3,13 @@
 👋 Hello, my name is Wendell Bitencourt. 
 <br/>
 <br/>
-I have objective of doing a great job as a Software Engineer.
+With a creative mind and always driven by my projects, I have an endless passion for traveling and exploring the curiosities of life. Human behavior fascinates me, prompting me to ask questions and seek to understand more about us.
 
-I am helpful and creative, understanding that quality and deadlines are important. I have been developing personal projects since I was 15 years old and hold a degree in computer science, contributing with my four years of professional experience in the development field.
+I deeply value my moments of solitude, which allow me to reflect and recharge, yet I equally love being in the company of others, sharing experiences and learnings. Peace is something I deeply cherish, finding in it the perfect balance to face and overcome the challenges life throws my way.
+
+Solving challenges brings me unparalleled satisfaction, and achieving them is something I value and long for more. My accomplishments are the foundation of my pride, and the prospect of reaching new goals motivates me to move forward. Passionate about technology, I see it as an essential tool to create, innovate, and transform the world around us.
+
+I've been working with development professionally since 2019, after starting my journey in programming at the age of 15. Graduating in Computer Science, I now serve as a Software Engineer, bringing my best to every project.
 
 "Do your best in the condition you are, while you don't have better conditions, to do even better!" - Mario Sergio Cortella.
 <br> 
