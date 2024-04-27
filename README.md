@@ -3,15 +3,13 @@
 👋 Hello, my name is Wendell Bitencourt. 
 <br/>
 <br/>
-As a creative and driven individual, I have a passion for traveling and delving into the mysteries of life. I'm deeply fascinated by human behavior, which drives me to constantly question and explore our nature and motivations.
+Software Engineer with a degree in Computer Science. I've been professionally active in the tech industry since 2019.
 
-I deeply value my moments of solitude, which allow me to reflect and recharge, yet I equally love being in the company of others, sharing experiences and learnings. Peace is something I deeply cherish, finding in it the perfect balance to face and overcome the challenges life throws my way.
+I thrive on technological challenges as they provide the freedom to create and innovate.
 
-Solving challenges brings me unparalleled satisfaction, and achieving them is something I value and long for more. My accomplishments are the foundation of my pride, and the prospect of reaching new goals motivates me to move forward. Passionate about technology, I see it as an essential tool to create, innovate, and transform the world around us.
+I deeply believe in this quote for what it represents in the daily struggles of a developer:
 
-I've been working with development professionally since 2019, after starting my journey in programming at the age of 15. Graduating in Computer Science, I now serve as a Software Engineer, bringing my best to every project.
-
-"Do your best in the condition you are, while you don't have better conditions, to do even better!" - Mario Sergio Cortella.
+"Do your best with what you have, until you can do better with better means!" - Mario Sergio Cortella
 <br> 
 <br/>
 **📫 How to reach me:**
