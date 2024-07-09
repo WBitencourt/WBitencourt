@@ -15,9 +15,9 @@ I deeply believe in this quote for what it represents in the daily struggles of 
 **📫 How to reach me:**
 <br/>
 <br/>
-<a href="https://www.linkedin.com/in/wendell-bitencourt/" target="blank"><img title="Linkedin" align="left" height="40" src="https://user-images.githubusercontent.com/51727640/169602833-50664130-57c3-4491-842a-ac093fc0493e.svg"></a>
-<a href="https://www.instagram.com/wbitencourt.dev/" target="blank"><img title="Instagram" align="left" height="40" src="https://user-images.githubusercontent.com/51727640/169602835-f8578787-11b8-49ba-88ea-b5179e035cad.svg"></a>
-<a href="https://app.rocketseat.com.br/me/wendell-bitencourt" target="blank"><img title="Rocketseat" align="left" height="40" src="https://user-images.githubusercontent.com/51727640/169602836-2b52f6d2-e9b3-46d4-a9e8-d32c7df1eb79.svg"></a>
+<a href="https://www.linkedin.com/in/wendell-bitencourt/" target="blank"><img title="Linkedin" align="left" height="40" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
+<a href="https://www.instagram.com/wbitencourt.dev/" target="blank"><img title="Instagram" align="left" height="40" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png"></a>
+<a href="https://app.rocketseat.com.br/me/wendell-bitencourt" target="blank"><img title="Rocketseat" align="left" height="40" src="https://media.licdn.com/dms/image/D4D0BAQGWWA3gGWJ3Sg/company-logo_100_100/0/1701903187680/rocketseat_logo?e=1728518400&v=beta&t=rWmhFBjkcTDdj4a6xa4Xm07369nB6lfFJc53ovmFN7k"></a>
 <br/>
 <br/>
 <br/>
@@ -27,18 +27,18 @@ I deeply believe in this quote for what it represents in the daily struggles of 
     <h6>Main</h6>
     <a href="https://www.javascript.com/" target="blank"><img title="Javascript" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg"></a>
     <a href="https://reactjs.org/" target="blank"><img title="React" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg"></a>
-    <a href="https://nextjs.org/" target="blank"><img title="Next.js" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg"></a>
     <a href="https://tailwindcss.com/" target="blank"><img title="Tailwind" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/tailwind.svg"></a>
-    <a href="https://zustand-demo.pmnd.rs/" target="blank"><img title="Zustand" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/1683814464431.png"></a>
+    <a href="https://aws.amazon.com/" target="blank"><img title="AWS" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/aws.svg"></a>
+    <a href="https://nodejs.org/en/" target="blank"><img title="Node.js" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/node.svg"></a>
 </div>
 <br/>
 <br/>
 <div style="display: flex;">
     <a href="https://www.typescriptlang.org/" target="blank"><img title="Typescript" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg"></a>
-    <a href="https://nodejs.org/en/" target="blank"><img title="Node.js" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/node.svg"></a>
-    <a href="https://nestjs.com/" target="blank"><img title="Nest.js" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/1663679627579.svg"></a>
-    <a href="https://aws.amazon.com/" target="blank"><img title="AWS" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/aws.svg"></a>
+    <a href="https://nextjs.org/" target="blank"><img title="Next.js" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg"></a>
+    <a href="https://zustand-demo.pmnd.rs/" target="blank"><img title="Zustand" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/1683814464431.png"></a>
     <a href="https://www.docker.com/" target="blank"><img title="Docker" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/docker.svg"></a>
+    <a href="https://nestjs.com/" target="blank"><img title="Nest.js" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/1663679627579.svg"></a>
 </div>
 <br/>
 <br/>
@@ -48,6 +48,7 @@ I deeply believe in this quote for what it represents in the daily struggles of 
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img title="CSS3" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/css3.svg"></a>
     <a href="https://getbootstrap.com/" target="blank"><img title="Bootstrap" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/bootstrap.svg"></a>
     <a href="https://redux.js.org/" target="blank"><img title="Redux" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/redux.svg"></a>
+    <a href="https://playwright.dev" target="blank"><img title="Playwright" align="left" height="40" src="https://playwright.dev/img/playwright-logo.svg"></a>
 </div>
 <br/>
 <br/>
@@ -56,6 +57,7 @@ I deeply believe in this quote for what it represents in the daily struggles of 
     <a href="https://www.microsoft.com/en-us/sql-server/" target="blank"><img title="SQL Server" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/sql-server.svg"></a>
     <a href="https://www.postgresql.org/" target="blank"><img title="Postgresql" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg"></a>
     <a href="https://git-scm.com/" target="blank"><img title="Git" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/git.svg"></a>
+    <a href="https://storybook.js.org/" target="blank"><img title="Storybook" align="left" height="40" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png"></a>
 </div>
 <br/>
 <br/>
