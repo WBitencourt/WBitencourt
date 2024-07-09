@@ -24,32 +24,44 @@ I deeply believe in this quote for what it represents in the daily struggles of 
 
 **Main languages and tools:**
 <div style="display: flex;">
-    <h6>I have experience</h6>
-    <a href="https://www.w3.org/html/" target="blank"><img title="HTML5" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/html5.svg"></a>
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img title="CSS3" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/css3.svg"></a>
+    <h6>Main</h6>
     <a href="https://www.javascript.com/" target="blank"><img title="Javascript" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg"></a>
-    <a href="https://www.typescriptlang.org/" target="blank"><img title="Typescript" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg"></a>
+    <a href="https://reactjs.org/" target="blank"><img title="React" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg"></a>
     <a href="https://nextjs.org/" target="blank"><img title="Next.js" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg"></a>
     <a href="https://tailwindcss.com/" target="blank"><img title="Tailwind" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/tailwind.svg"></a>
-    <a href="https://getbootstrap.com/" target="blank"><img title="Bootstrap" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/bootstrap.svg"></a>
-    <a href="https://reactjs.org/" target="blank"><img title="React" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg"></a>
-    <a href="https://nodejs.org/en/" target="blank"><img title="Node.js" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/node.svg"></a>
-    <a href="https://www.postgresql.org/" target="blank"><img title="Postgresql" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg"></a>
-    <a href="https://www.microsoft.com/en-us/sql-server/" target="blank"><img title="SQL Server" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/sql-server.svg"></a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="blank"><img title="C#" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/c-sharp.svg"></a>
-    <a href="https://redux.js.org/" target="blank"><img title="Redux" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/redux.svg"></a>
     <a href="https://zustand-demo.pmnd.rs/" target="blank"><img title="Zustand" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/1683814464431.png"></a>
 </div>
 <br/>
 <br/>
 <div style="display: flex;">
-    <h6>I am studying</h6>
-    <a href="https://git-scm.com/" target="blank"><img title="Git" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/git.svg"></a>
-    <a href="https://www.mongodb.com/" target="blank"><img title="MongoDB" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/mongodb.svg"></a>
+    <a href="https://www.typescriptlang.org/" target="blank"><img title="Typescript" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg"></a>
+    <a href="https://nodejs.org/en/" target="blank"><img title="Node.js" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/node.svg"></a>
     <a href="https://nestjs.com/" target="blank"><img title="Nest.js" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/1663679627579.svg"></a>
     <a href="https://aws.amazon.com/" target="blank"><img title="AWS" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/aws.svg"></a>
-    <a href="https://www.python.org/" target="blank"><img title="Python" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/python.svg"></a>
     <a href="https://www.docker.com/" target="blank"><img title="Docker" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/docker.svg"></a>
+</div>
+<br/>
+<br/>
+<div style="display: flex;">
+    <h6>I have experience</h6>
+    <a href="https://www.w3.org/html/" target="blank"><img title="HTML5" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/html5.svg"></a>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img title="CSS3" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/css3.svg"></a>
+    <a href="https://getbootstrap.com/" target="blank"><img title="Bootstrap" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/bootstrap.svg"></a>
+    <a href="https://redux.js.org/" target="blank"><img title="Redux" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/redux.svg"></a>
+</div>
+<br/>
+<br/>
+<div style="display: flex;">
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="blank"><img title="C#" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/c-sharp.svg"></a>
+    <a href="https://www.microsoft.com/en-us/sql-server/" target="blank"><img title="SQL Server" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/sql-server.svg"></a>
+    <a href="https://www.postgresql.org/" target="blank"><img title="Postgresql" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg"></a>
+    <a href="https://git-scm.com/" target="blank"><img title="Git" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/git.svg"></a>
+</div>
+<br/>
+<br/>
+<div style="display: flex;">
+    <h6>I am studying</h6>
+    <a href="https://www.python.org/" target="blank"><img title="Python" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/python.svg"></a>
 </div>
 <br/>
 <br/>
@@ -58,14 +70,14 @@ I deeply believe in this quote for what it represents in the daily struggles of 
     <a href="https://graphql.org/" target="blank"><img title="Graphql" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/graphql.svg"></a>
     <a href="https://expo.dev" target="blank"><img title="Expo" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/1663680122056.svg"></a>
     <a href="https://reactnative.dev/" target="blank"><img title="React Native" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/react-native.svg"></a>
+    <a href="https://www.mongodb.com/" target="blank"><img title="MongoDB" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/mongodb.svg"></a>
 </div>
 <br/>
 <br/>
 <br/>
 <br/>
-<div align="start">
-    <!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=wbitencourt&show_icons=true&include_all_commits=true&theme=radical"/>!-->
-    <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbitencourt&layout=compact&langs_count=6)]  (https://github.com/wbitencourt/github-readme-statsCompact&theme=radical"/>!-->
+<div align="center">
+    <a href="https://app.rocketseat.com.br/me/wendell-bitencourt"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=wendell-bitencourt&type=card" width="280" alt="Wendell George Bitencourt's Rocket ID"/></a>
 </div>
 <br/>
 <h1 align="center">Projects</h1>
