@@ -43,21 +43,26 @@ I deeply believe in this quote for what it represents in the daily struggles of 
 <br/>
 <br/>
 <div style="display: flex;">
-    <h6>I have experience</h6>
     <a href="https://www.w3.org/html/" target="blank"><img title="HTML5" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/html5.svg"></a>
+    <a href="https://storybook.js.org/" target="blank"><img title="Storybook" align="left" height="40" width="40" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png"></a>
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img title="CSS3" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/css3.svg"></a>
-    <a href="https://getbootstrap.com/" target="blank"><img title="Bootstrap" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/bootstrap.svg"></a>
-    <a href="https://redux.js.org/" target="blank"><img title="Redux" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/redux.svg"></a>
-    <a href="https://playwright.dev" target="blank"><img title="Playwright" align="left" height="40" src="https://playwright.dev/img/playwright-logo.svg"></a>
+    <a href="https://www.postgresql.org/" target="blank"><img title="Postgresql" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg"></a>
+    <a href="https://git-scm.com/" target="blank"><img title="Git" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/git.svg"></a>
 </div>
 <br/>
 <br/>
 <div style="display: flex;">
+    <a href="https://playwright.dev" target="blank"><img title="Playwright" align="left" height="40" src="https://playwright.dev/img/playwright-logo.svg"></a> 
+</div>
+<br/>
+<br/>
+<div style="display: flex;">
+    <h6>I have experience</h6>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="blank"><img title="C#" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/c-sharp.svg"></a>
     <a href="https://www.microsoft.com/en-us/sql-server/" target="blank"><img title="SQL Server" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/sql-server.svg"></a>
-    <a href="https://www.postgresql.org/" target="blank"><img title="Postgresql" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg"></a>
-    <a href="https://git-scm.com/" target="blank"><img title="Git" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/git.svg"></a>
-    <a href="https://storybook.js.org/" target="blank"><img title="Storybook" align="left" height="40" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png"></a>
+    <a href="https://getbootstrap.com/" target="blank"><img title="Bootstrap" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/bootstrap.svg"></a>
+    <a href="https://redux.js.org/" target="blank"><img title="Redux" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/redux.svg"></a>
+    
 </div>
 <br/>
 <br/>
