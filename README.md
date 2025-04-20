@@ -17,14 +17,14 @@ I deeply believe in this quote for what it represents in the daily struggles of 
 <br/>
 <a href="https://www.linkedin.com/in/wendell-bitencourt/" target="blank"><img title="Linkedin" align="left" height="40" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
 <a href="https://www.instagram.com/wbitencourt.dev/" target="blank"><img title="Instagram" align="left" height="40" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png"></a>
-<a href="https://app.rocketseat.com.br/me/wendell-bitencourt" target="blank"><img title="Rocketseat" align="left" height="40" src="https://media.licdn.com/dms/image/D4D0BAQGWWA3gGWJ3Sg/company-logo_100_100/0/1701903187680/rocketseat_logo?e=1728518400&v=beta&t=rWmhFBjkcTDdj4a6xa4Xm07369nB6lfFJc53ovmFN7k"></a>
+<a href="https://app.rocketseat.com.br/me/wendell-bitencourt" target="blank"><img title="Rocketseat" align="left" height="40" src="https://github.com/user-attachments/assets/babeefc0-60bc-45ec-8f6a-50b083cfb9b9"></a>
 <br/>
 <br/>
 <br/>
 
 **Main languages and tools:**
 <div style="display: flex;">
-    <h6>Main</h6>
+    <h6>I have experience</h6>
     <a href="https://www.javascript.com/" target="blank"><img title="Javascript" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg"></a>
     <a href="https://reactjs.org/" target="blank"><img title="React" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg"></a>
     <a href="https://tailwindcss.com/" target="blank"><img title="Tailwind" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/tailwind.svg"></a>
@@ -57,18 +57,18 @@ I deeply believe in this quote for what it represents in the daily struggles of 
 <br/>
 <br/>
 <div style="display: flex;">
-    <h6>I have experience</h6>
+    <h6>I have worked with</h6>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="blank"><img title="C#" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/c-sharp.svg"></a>
     <a href="https://www.microsoft.com/en-us/sql-server/" target="blank"><img title="SQL Server" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/sql-server.svg"></a>
-    <a href="https://getbootstrap.com/" target="blank"><img title="Bootstrap" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/bootstrap.svg"></a>
-    <a href="https://redux.js.org/" target="blank"><img title="Redux" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/redux.svg"></a>
-    
+    <a href="https://getbootstrap.com/" target="blank"><img title="Bootstrap" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/bootstrap.svg"></a> 
 </div>
 <br/>
 <br/>
 <div style="display: flex;">
     <h6>I am studying</h6>
     <a href="https://www.python.org/" target="blank"><img title="Python" align="left" height="40" src="https://xesque.rocketseat.dev/platform/tech/python.svg"></a>
+    <a href="https://app.rocketseat.com.br/journey/inteligencia-artificial/contents" target="blank"><img title="IA" align="left" height="40" src="https://app.rocketseat.com.br/_next/image?url=https%3A%2F%2Fxesque.rocketseat.dev%2Fplatform%2F1724859467072.svg&w=48&q=75"></a>
+    
 </div>
 <br/>
 <br/>
