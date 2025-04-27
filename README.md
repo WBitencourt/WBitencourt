@@ -92,24 +92,24 @@ I deeply believe in this quote for what it represents in the daily struggles of 
 <table bordercolor="#66b2b2" align="center">
     <tr>
         <td width="50%" valign="top" align="center">           
-            <h3 align="center">Remote control: Bluetooth car solar powered</h3>
+            <h3 align="center">Bluetooth solar rc car</h3>
             <br />           
-            <a align="center" valign="center" href="https://github.com/WBitencourt/Personal-Project/tree/main/RC%20Bluetooth%20car%20solar%20powered">
+            <a align="center" valign="center" href="https://github.com/WBitencourt/bluetooth-solar-rc-car">
                 <img src="images/RemoteCar_bluetooth3.gif" height="300px" alt="Remote car bluetooth"/>
             </a>
-            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/Personal-Project/tree/main/RC%20Bluetooth%20car%20solar%20powered">
+            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/bluetooth-solar-rc-car">
                 <br/>
                 <img title="Link" align="center" height="17" src="images/chain.png">
                 <span>Click here to see repository</span>
             </a>    
         </td>    
         <td width="50%" valign="top" align="center">           
-            <h3 align="center">DYMOVIE</h3>
+            <h3 align="center">Shelf Play</h3>
             <br />           
-            <a align="center" valign="center" href="https://github.com/WBitencourt/Personal-Project/tree/main/dymovie">
+            <a align="center" valign="center" href="https://github.com/WBitencourt/shelf-play-front-end">
                 <img src="images/dymovie.png" height="300px" alt="DYMOVIE"/>
             </a>
-            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/Personal-Project/tree/main/dymovie">
+            <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/shelf-play-front-end">
                 <br/>
                 <img title="Link" align="center" height="17" src="images/chain.png">
                 <span>Click here to see repository</span>
