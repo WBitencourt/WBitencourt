@@ -107,7 +107,7 @@ I deeply believe in this quote for what it represents in the daily struggles of 
             <h3 align="center">Shelf Play</h3>
             <br />           
             <a align="center" valign="center" href="https://github.com/WBitencourt/shelf-play-front-end">
-                <img src="images/dymovie.png" height="300px" alt="DYMOVIE"/>
+                <img src="images/shelf-play-logo.png" height="300px" alt="DYMOVIE"/>
             </a>
             <a align="center" valign="center" target="_blank" href="https://github.com/WBitencourt/shelf-play-front-end">
                 <br/>
